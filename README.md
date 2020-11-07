@@ -2,8 +2,7 @@
 
 ### Prerequisites
 
-- Install [Rustup](*rustup* is an installer for
-  the systems programming language [Rust](https://www.rust-lang.org/)), After this, you can use the `rustup` command to also install  `nightly` channels for Rust and Cargo.
+- Install [Rust](https://www.rust-lang.org/), rustup is an installer for the systems programming language rust, after this, you can use the `rustup` command to also install  `nightly` channels for Rust and Cargo.
 
   ```
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
